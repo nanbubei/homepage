@@ -3,7 +3,6 @@ server:
   #servlet:
    # context-path: /th
 spring:
-
   thymeleaf:
     #thymeleaf模板文件后缀名，默认为.html,可以修改成其他后缀名
     suffix: .html
